@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:18.932764
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:57
 #+TITLE: 潭州溈山靈祐禪師語錄
 #+PROPERTY: CBETA_ID T47n1989
 #+PROPERTY: ID KR6q0075
